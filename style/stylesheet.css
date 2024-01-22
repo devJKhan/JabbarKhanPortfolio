@@ -1048,7 +1048,7 @@ footer .footer-btm a:hover {
     }
 
     .banner .banner-flex .image-wrap img {
-        width: 60%;
+        width: 50%;
     }
 
     .banner .banner-flex .image-wrap {
@@ -1056,7 +1056,7 @@ footer .footer-btm a:hover {
     }
 
     .banner .round-btn {
-        top: 50px;
+        top: 75px;
         position: relative;
     }
 }
